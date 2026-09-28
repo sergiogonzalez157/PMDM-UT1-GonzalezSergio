@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">PMDM UT1</string>
-    <string name="titulo">Aplicación de ejemplo</string>
-    <string name="subtitulo">Programación Multimedia y Dispositivos Móviles</string>
-    <string name="descripcion">Proyecto base para analizar la estructura de una aplicación Android.</string>
+    <string name="app_name">UT1- Sergio Gonzalez</string>
+    <string name="titulo">Aplicación Android</string>
+    <string name="subtitulo">Análisis y modificación de una app</string>
+    <string name="descripcion">Para poder aprender Android lo primero es comprender la estructura del proyecto y modificar sus recursos e interfaz.</string>
 </resources>
